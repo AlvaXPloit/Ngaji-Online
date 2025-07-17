@@ -1,0 +1,25 @@
+fitur
+al - qur'an
+-translate
+-audio
+-bookmark
+jadwal sholat --skip
+do'a
+tutorial
+-web shortcut creator
+about
+loading animation
+
+pengaturan
+-dark mode
+
+bug yang belum
+-tampilan pc//
+-bookmark tidak ada hapus//
+-tidak ada toast bookmark disimpan//
+-audio kadang susah keluar//
+-audio akan tumpang tindih jika tidak dihentikan dulu//
+-beri user manual
+
+next fitur
+-tajwid
