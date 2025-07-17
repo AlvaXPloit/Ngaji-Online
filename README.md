@@ -21,7 +21,7 @@ Selamat datang di **Ngaji Online** — sebuah platform sederhana dan ringan untu
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/ngaji-online.git
+   git clone https://github.com/AlvaXPloit/ngaji-online.git
    cd ngaji-online
    ```
 2. Jalankan server lokal:
