@@ -59,7 +59,8 @@ Kami membuka kesempatan untuk kontribusi:
 Proyek ini dibangun oleh **AlvaXPloit** sebagai bentuk cinta dalam diam untuk ilmu dan agama.  
 Semoga bermanfaat, diterima oleh Allah, dan jadi ladang pahala yang terus mengalir.
 
-📧 Kontak: [email kamu di sini]
+📧 Kontak: [alvarobanyu@gmail.com]
+   Demo Website: https://pncakar.bigsentinel.asia/ngaji/index.php
 
 ---
 
